@@ -1,0 +1,8 @@
+d=float(input('Uma distância em metros: '))
+print('A media de {}m corresponde a'.format(d))
+print(d/10/10/10,'km')
+print(d/10/10,'hm')
+print(d/10,'dam')
+print(d*10,'dm')
+print(d*10*10,'cm')
+print(d*10*10*10,'mm')
