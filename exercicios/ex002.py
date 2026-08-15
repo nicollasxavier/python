@@ -1,3 +1,3 @@
 nome = input ('Qual o seu nome?')
 
-print ('É um grande prazer te conheer',nome)
+print ('\033[1;33mÉ um grande prazer te conheer!\033[m'.format(nome))
